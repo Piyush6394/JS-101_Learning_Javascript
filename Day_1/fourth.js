@@ -1,0 +1,6 @@
+console.log("Piyush singh")
+console.log("SCHOOL : CSCA")
+console.log("GRADE : A")
+console.log("SECTION : C")
+console.log("ROLL NO : 1")
+console.log("MATH : 40  ENGLISH : 59 COMPUTER : 90")
